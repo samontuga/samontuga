@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @samontuga<br>- 👀 I’m interested in Machine learning and AI<br>- 🌱 I’m currently learning AI<br>- 💞️ I’m looking to collaborate on web development<br>- 📫 How to reach me {GITHUB}<br>- ⚡ Fun fact: Coding<br>
+- 👋 Hi, I’m sam ontuga<br>- 👀 I’m interested in Machine learning and AI<br>- 🌱 I’m currently learning AI<br>- 💞️ I’m looking to collaborate on web development<br>- 📫 How to reach me {GITHUB}<br>- ⚡ Fun fact: Coding<br>
 
 
 ## 🌐 Socials:
